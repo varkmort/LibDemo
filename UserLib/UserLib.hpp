@@ -7,6 +7,7 @@
 
 void HelloWorld();
 void Summ();
+coid UserHello();
 
 
 #endif //USER_LIB_HPP

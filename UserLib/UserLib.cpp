@@ -17,3 +17,7 @@ void Summ()
 	auto result = number_one + number_two;
 	std::cout << "Summ of your numbers is " << result;
 }
+
+coid UserHello() {
+	//
+}
