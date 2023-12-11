@@ -2,6 +2,7 @@
 
 int main()
 {
+    UserHello("jhon");
     HelloWorld();
     Summ();
 }

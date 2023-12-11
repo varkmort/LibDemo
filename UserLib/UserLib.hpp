@@ -4,10 +4,11 @@
 
 
 #include <iostream>
+#include <string>
 
 void HelloWorld();
 void Summ();
-coid UserHello();
+void UserHello(std::string who);
 
 
 #endif //USER_LIB_HPP

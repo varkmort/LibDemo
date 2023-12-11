@@ -18,6 +18,6 @@ void Summ()
 	std::cout << "Summ of your numbers is " << result;
 }
 
-coid UserHello() {
-	//
+void UserHello(std::string who) {
+	std::cout << "Hello, " << who << '\n';
 }
